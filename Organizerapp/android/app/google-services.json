@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412923263237",
+    "project_id": "ticketeve-organizer",
+    "storage_bucket": "ticketeve-organizer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412923263237:android:5eeffc85dbb35ea1c7df6c",
+        "android_client_info": {
+          "package_name": "com.ticketeve.organizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZfp28-ORqT8esug74u29y43m7P3GiA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

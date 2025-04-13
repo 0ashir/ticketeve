@@ -1,0 +1,5 @@
+    // -----------------------------  TODO DEMO: Remove this code in production release
+    credentialsReadOnly = true;
+    email.text = "demoscanner@saasmonks.in";
+    password.text = "123456";
+    // -----------------------------
